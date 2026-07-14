@@ -8,8 +8,8 @@ const PROTECTED_AREAS = [
         maxX: -2745,
         minY: 69,
         maxY: 201,
-        minZ: 1,
-        maxZ: -256
+        minZ: -256,
+        maxZ: 1
     },
 
     {
